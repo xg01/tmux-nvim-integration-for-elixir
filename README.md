@@ -2,7 +2,7 @@
 An attempt at emulating the human computer-interface of Lisp and Emacs/Slime with Elixir and Neovim/Tmux.
 
 ## Features
-- Scripts for starting iex, similar to [npm scripts](https://docs.npmjs.com/cli/v8/using-npm/scripts)
+- Scripts for starting iex -- similar to [npm scripts](https://docs.npmjs.com/cli/v8/using-npm/scripts)
 - Hot reloading of modules in buffer
 
 
