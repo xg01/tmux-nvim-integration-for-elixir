@@ -1,4 +1,4 @@
-# Tmux-Nvim-IDE-Tools-for-Elixir
+# Tmux-Nvim-Integration-for-Elixir
 An attempt at emulating the human computer-interface of Emacs/Slime/Sly and Lisp with Elixir and Neovim/Tmux.
 
 ## Assumptions
