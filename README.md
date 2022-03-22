@@ -7,5 +7,6 @@ This relies on [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesit
 - Start iex sessions
 - Hot reload modules inferred from the Vim cursor
 
-## Wishlist
+## Roadmap 
 - FZF integration (still learning the vim-fzf API)
+- Transient paste buffers implemented with a RAM filesystem (Linux only)
