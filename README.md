@@ -7,4 +7,5 @@ This relies on [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesit
 - Start iex sessions
 - Hot reload modules inferred from the Vim cursor
 
-
+## Wishlist
+- FZF integration (still learning the vim-fzf API)
