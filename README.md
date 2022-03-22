@@ -8,5 +8,5 @@ This relies on [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesit
 - Hot reload modules inferred from the Vim cursor
 
 ## Roadmap 
-- vim-fzf integration 
+- [fzf.vim](https://github.com/junegunn/fzf.vim) integration 
 - Transient paste buffers implemented with ramfs/tmpfs (Linux only)
