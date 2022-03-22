@@ -9,4 +9,4 @@ This relies on [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesit
 
 ## Roadmap 
 - FZF integration (still learning the vim-fzf API)
-- Transient paste buffers implemented with a RAM filesystem (Linux only)
+- Transient paste buffers implemented with ramfs (Linux only)
