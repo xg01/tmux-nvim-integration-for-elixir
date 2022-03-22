@@ -1,7 +1,7 @@
 # tmux-nvim-integration-for-elixir
 A collection of APIs for Neovim to acheive interactive development with Elixir.  
 
-This relies on [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) for parsing the Elixir AST and [vim-slime](https://github.com/jpalardy/vim-slime) to send commands to Tmux (a replacement in Lua instead of vimscript currently in-progress)
+This relies on [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) for parsing the Elixir AST.  
 
 ## Features
 - Start iex sessions
