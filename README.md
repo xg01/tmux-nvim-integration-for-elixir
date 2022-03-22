@@ -1,10 +1,10 @@
 # tmux-nvim-integration-for-elixir
-An attempt at emulating the human computer-interface of Lisp and Emacs/Slime with Elixir and Neovim/Tmux.
+A Neovim API to provide interactive development with Elixir.  
+
+This relies on [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) for parsing the Elixir AST and [vim-slime](https://github.com/jpalardy/vim-slime) to send commands to Tmux.
 
 ## Features
-- Scripts for starting iex -- similar to [npm scripts](https://docs.npmjs.com/cli/v8/using-npm/scripts)
-- Hot reloading of modules in buffer
+- Start iex sessions
+- Hot reload modules inferred from the Vim cursor
 
 
-## Assumptions
-This relies on [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) for parsing the Elixir AST and [vim-slime](https://github.com/jpalardy/vim-slime) to send commands to Tmux.
